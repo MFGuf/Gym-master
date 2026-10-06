@@ -1,0 +1,6 @@
+# Служебные файлы IntelliJ IDEA не коммитим
+.idea/*
+# ...кроме описания библиотек: Gym-master.iml ссылается на JUnit5
+!.idea/libraries/
+.idea/libraries/*
+!.idea/libraries/JUnit5.xml
